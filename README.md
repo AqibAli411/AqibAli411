@@ -1,4 +1,4 @@
-# Hi, I'm Aqib Ali 👋
+# Hi, I'm Aqib Ali 
 
 Full-stack developer based in Islamabad, Pakistan. I build things end-to-end — from REST APIs in Spring Boot and Go to interfaces in React — and I care a lot about writing code that doesn't embarrass me six months later.
 
