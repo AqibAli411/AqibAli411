@@ -89,7 +89,7 @@ Browser-based AI image generator using text prompts. Clean, fully responsive UI 
 ## Get in Touch
 
 - 📍 Islamabad, Pakistan
-- 💼 [LinkedIn](https://www.linkedin.com/in/aqib-halepoto-1b1876329/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aqib-ali-1b1876329/)
 - 🐙 [GitHub](https://github.com/AqibAli411)
 - ✉️ aqibhalepoto78@gmail.com
 
